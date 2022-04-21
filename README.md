@@ -10,7 +10,6 @@ Overall Market Value / Net P/L and Daily performance
 3.react-router-dom
 4.axios
 5.API
-
-Screenshots
-![screenshot](search.png)
-![screenshot](/assets/allstocks.png)
+screenshots
+![Screenshot](assets/search.png)
+![Screenshot](/assets/listofstocks.png)
