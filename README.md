@@ -4,9 +4,13 @@ search functionality (search by first letter) implementation
 Add stocks to the watchlists
 Overall Market Value / Net P/L and Daily performance
 
-Main Dependencies:
+#Main Dependencies:
 1.create-react-app
 2.react-boostrap
 3.react-router-dom
 4.axios
 5.API
+
+Screenshots
+![screenshot](search.png)
+![screenshot](/assets/allstocks.png)
