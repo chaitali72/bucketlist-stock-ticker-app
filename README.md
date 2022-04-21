@@ -11,5 +11,7 @@ Overall Market Value / Net P/L and Daily performance
 4.axios
 5.API
 screenshots
-![Screenshot](assets/search.png)
-![Screenshot](/assets/listofstocks.png)
+
+![Screenshot](src/search.png)
+![Screenshot](src/listofstocks.png)
+![Screenshot](src/allstocks.png)
