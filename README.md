@@ -5,8 +5,8 @@ Add stocks to the watchlists
 Overall Market Value / Net P/L and Daily performance
 
 Main Dependencies:
-create-react-app
-react-boostrap
-react-router-dom
-axios
-API
+1.create-react-app
+2.react-boostrap
+3.react-router-dom
+4.axios
+5.API
