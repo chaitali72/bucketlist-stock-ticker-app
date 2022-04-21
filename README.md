@@ -11,4 +11,4 @@ Main Dependencies:
 4.axios
 5.API
 screenshots
-![assets](search.png)
+![Screenshot](search.png)
